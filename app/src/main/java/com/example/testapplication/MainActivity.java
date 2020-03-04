@@ -12,6 +12,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+//Fuck this eh??
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
